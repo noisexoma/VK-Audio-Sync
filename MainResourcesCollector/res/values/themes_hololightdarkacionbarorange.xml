@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="HoloLightDarkAcionBarOrange" parent="@style/_HoloLightDarkAcionBarOrange" />
+
+    <style name="_HoloLightDarkAcionBarOrange" parent="Holo.Theme.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/ActionBarHoloLightDarkAcionBarOrange</item>
+        <item name="android:actionBarStyle">@style/ActionBarHoloLightDarkAcionBarOrange</item>
+        <item name="android:editTextStyle">@style/EditTextHoloLightDarkAcionBarOrange</item>
+        <item name="android:textColorHighlight">#99ff4400</item>
+        <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewHoloLightDarkAcionBarOrange</item>
+        <item name="android:checkboxStyle">@style/CheckBoxHoloLightDarkAcionBarOrange</item>
+        <item name="android:radioButtonStyle">@style/RadioButtonHoloLightDarkAcionBarOrange</item>
+        <item name="android:buttonStyle">@style/ButtonHoloLightDarkAcionBarOrange</item>
+        <item name="android:imageButtonStyle">@style/ImageButtonHoloLightDarkAcionBarOrange</item>
+        <item name="android:spinnerStyle">@style/SpinnerHoloLightDarkAcionBarOrange</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemHoloLightDarkAcionBarOrange</item>
+        <item name="android:progressBarStyleHorizontal">@style/ProgressBarHoloLightDarkAcionBarOrange</item>
+        <item name="android:seekBarStyle">@style/SeekBarHoloLightDarkAcionBarOrange</item>
+        <item name="android:ratingBarStyle">@style/RatingBarHoloLightDarkAcionBarOrange</item>
+        <item name="android:ratingBarStyleIndicator">@style/RatingBarBigHoloLightDarkAcionBarOrange</item>
+        <item name="android:ratingBarStyleSmall">@style/RatingBarSmallHoloLightDarkAcionBarOrange</item>
+        <item name="android:buttonStyleToggle">@style/ToggleHoloLightDarkAcionBarOrange</item>
+        <item name="android:listViewStyle">@style/ListViewHoloLightDarkAcionBarOrange</item>
+        <item name="android:listViewWhiteStyle">@style/ListViewHoloLightDarkAcionBarOrange.White</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItemHoloLightDarkAcionBarOrange</item>
+    </style>
+
+</resources>
